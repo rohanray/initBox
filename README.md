@@ -1,0 +1,2 @@
+# initBox
+zsh tmux vim
